@@ -1,0 +1,3 @@
+[submodule "pipwerks-wrapper"]
+	path = pipwerks-wrapper
+	url = https://github.com/pipwerks/scorm-api-wrapper
