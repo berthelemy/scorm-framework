@@ -106,6 +106,4 @@ function send(){ // Set suspend data example
 
 }
 
-// TO DO
 
-// Look into holding an array of all the 'pages' - use this to mark which ones have been viewed
